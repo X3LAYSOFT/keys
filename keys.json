@@ -16,5 +16,14 @@
         "activated_at": null,
         "active": false,
         "revoked": false
+    },
+    "us_2ff556c5503748fc": {
+        "days": 365,
+        "generated_at": "2025-07-16T14:43:53.636249",
+        "hwid": null,
+        "user_id": null,
+        "activated_at": null,
+        "active": false,
+        "revoked": false
     }
 }
