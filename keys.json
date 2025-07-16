@@ -11,10 +11,10 @@
     "us_d3e0bd6b76d3421f": {
         "days": 1,
         "generated_at": "2025-07-16T13:24:15.843409",
-        "hwid": null,
+        "hwid": "8A:88:4B:21:2F:97",
         "user_id": null,
-        "activated_at": null,
-        "active": false,
+        "activated_at": "2025-07-16T13:33:26.878362",
+        "active": true,
         "revoked": false
     }
 }
