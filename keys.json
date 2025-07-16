@@ -2,10 +2,19 @@
     "us_d4d3e88f7e2844dc": {
         "days": 365,
         "generated_at": "2025-07-16T14:03:49.815658",
-        "hwid": "8A:88:4B:21:2F:97",
+        "hwid": null,
         "user_id": null,
-        "activated_at": "2025-07-16T14:10:33.792030",
-        "active": true,
+        "activated_at": null,
+        "active": false,
+        "revoked": false
+    },
+    "us_60d610085d154d04": {
+        "days": 1,
+        "generated_at": "2025-07-16T14:11:07.328231",
+        "hwid": null,
+        "user_id": null,
+        "activated_at": null,
+        "active": false,
         "revoked": false
     }
 }
