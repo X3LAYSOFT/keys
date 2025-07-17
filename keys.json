@@ -29,10 +29,10 @@
     "us_1615a247912e4540": {
         "days": 30,
         "generated_at": "2025-07-17T07:11:28.117674",
-        "hwid": null,
+        "hwid": "08:00:27:14:E5:80",
         "user_id": null,
-        "activated_at": null,
-        "active": false,
+        "activated_at": "2025-07-17T04:11:48.091792",
+        "active": true,
         "revoked": false
     }
 }
