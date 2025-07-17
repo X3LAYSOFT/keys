@@ -11,10 +11,10 @@
     "us_60d610085d154d04": {
         "days": 1,
         "generated_at": "2025-07-16T14:11:07.328231",
-        "hwid": null,
+        "hwid": "2C:F0:5D:CB:FA:EA",
         "user_id": null,
-        "activated_at": null,
-        "active": false,
+        "activated_at": "2025-07-17T07:00:22.188379",
+        "active": true,
         "revoked": false
     },
     "us_2ff556c5503748fc": {
