@@ -1,38 +1,11 @@
 {
-    "us_d4d3e88f7e2844dc": {
-        "days": 365,
-        "generated_at": "2025-07-16T14:03:49.815658",
-        "hwid": "8A:88:4B:21:2F:97",
-        "user_id": null,
-        "activated_at": "2025-07-16T14:14:41.646073",
-        "active": true,
-        "revoked": false
-    },
-    "us_60d610085d154d04": {
+    "us_dc84fbb4979f47a8": {
         "days": 1,
-        "generated_at": "2025-07-16T14:11:07.328231",
-        "hwid": "2C:F0:5D:CB:FA:EA",
-        "user_id": null,
-        "activated_at": "2025-07-17T07:00:22.188379",
-        "active": true,
-        "revoked": false
-    },
-    "us_2ff556c5503748fc": {
-        "days": 365,
-        "generated_at": "2025-07-16T14:43:53.636249",
+        "generated_at": "2025-07-17T10:42:00.264002",
         "hwid": null,
         "user_id": null,
         "activated_at": null,
         "active": false,
-        "revoked": false
-    },
-    "us_1615a247912e4540": {
-        "days": 30,
-        "generated_at": "2025-07-17T07:11:28.117674",
-        "hwid": "08:00:27:14:E5:80",
-        "user_id": null,
-        "activated_at": "2025-07-17T04:11:48.091792",
-        "active": true,
         "revoked": false
     }
 }
