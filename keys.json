@@ -20,10 +20,10 @@
     "us_2ff556c5503748fc": {
         "days": 365,
         "generated_at": "2025-07-16T14:43:53.636249",
-        "hwid": null,
+        "hwid": "08:00:27:14:E5:80",
         "user_id": null,
-        "activated_at": null,
-        "active": false,
+        "activated_at": "2025-07-17T04:06:58.934574",
+        "active": true,
         "revoked": false
     }
 }
