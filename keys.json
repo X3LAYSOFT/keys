@@ -5,8 +5,8 @@
         "hwid": "E4:C7:67:4B:9F:5A",
         "user_id": null,
         "activated_at": "2025-07-17T11:35:49.614947+00:00",
-        "active": true,
-        "revoked": false
+        "active": false,
+        "revoked": true
     },
     "us_38def253a7594af8": {
         "days": 100,
