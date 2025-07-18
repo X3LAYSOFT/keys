@@ -8,15 +8,6 @@
         "active": false,
         "revoked": true
     },
-    "us_test": {
-        "days": 1444,
-        "generated_at": "2025-07-17T10:42:00.264002",
-        "hwid": "",
-        "user_id": null,
-        "activated_at": "",
-        "active": false,
-        "revoked": false
-    },
     "us_38def253a7594af8": {
         "days": 100,
         "generated_at": "2025-07-17T10:43:30.092663",
