@@ -2,19 +2,28 @@
     "us_dc84fbb4979f47a8": {
         "days": 1,
         "generated_at": "2025-07-17T10:42:00.264002",
-        "hwid": "E4:C7:67:4B:9F:5A",
+        "hwid": null,
         "user_id": null,
-        "activated_at": "2025-07-17T11:35:49.614947+00:00",
+        "activated_at": null,
         "active": false,
-        "revoked": true
+        "revoked": false
     },
     "us_38def253a7594af8": {
         "days": 100,
         "generated_at": "2025-07-17T10:43:30.092663",
-        "hwid": "8A:88:4B:21:2F:97",
+        "hwid": null,
         "user_id": null,
-        "activated_at": "2025-07-17T15:19:12.919781+00:00",
-        "active": true,
+        "activated_at": null,
+        "active": false,
+        "revoked": false
+    },
+    "us_5c7e8cb8d8f740d9": {
+        "days": 256,
+        "generated_at": "2025-07-20T00:56:32.209732",
+        "hwid": null,
+        "user_id": null,
+        "activated_at": null,
+        "active": false,
         "revoked": false
     }
 }
