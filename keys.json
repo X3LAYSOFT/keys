@@ -29,10 +29,10 @@
     "us_83b64e87b8194c8c": {
         "days": 100,
         "generated_at": "2025-07-20T15:53:39.448288",
-        "hwid": null,
+        "hwid": "E4:C7:67:4B:9F:5A",
         "user_id": null,
-        "activated_at": null,
-        "active": false,
+        "activated_at": "2025-07-20T12:54:48.082702+00:00",
+        "active": true,
         "revoked": false
     }
 }
