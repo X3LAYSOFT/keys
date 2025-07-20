@@ -20,10 +20,10 @@
     "us_5c7e8cb8d8f740d9": {
         "days": 256,
         "generated_at": "2025-07-20T00:56:32.209732",
-        "hwid": null,
+        "hwid": "E4:C7:67:4B:9F:5A",
         "user_id": null,
-        "activated_at": null,
-        "active": false,
+        "activated_at": "2025-07-20T12:49:48.056013+00:00",
+        "active": true,
         "revoked": false
     }
 }
